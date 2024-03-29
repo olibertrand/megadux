@@ -1,0 +1,1 @@
+Pour lancer le jeu, tous les éléments placé dans le dossier source doivent être placé avec le programme.
